@@ -1,0 +1,29 @@
+h1 {
+    margin-left: 5px;
+    margin-top: 5px;
+    color: rgb(134, 130, 130);
+}
+
+input {
+    width: 15%;
+    height: 35px;
+    border-radius: 10px;
+    border-color: hotpink;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+table,
+tr {
+    margin-left: 5px;
+}
+
+td {
+    text-align: center;
+    border-right: 1px solid rgb(134, 130, 130);
+}
+
+#lastColumn,
+#firstColumn {
+    border-right: 0px;
+}
